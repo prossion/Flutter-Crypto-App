@@ -1,6 +1,18 @@
-# flutter_crypto
+# Flutter Crypto App
 
-A new Flutter project.
+
+
+![bandicam 2021-09-08 20-41-29-381](https://user-images.githubusercontent.com/67923348/132560016-b227bf94-dad6-4f86-89ce-ce65cccc6eac.gif)
+
+
+
+
+The application is written using a clean architecture, to show the current prices of cryptocurrencies with two screens. Also caches the last 20 items.
+
+### In this project I have used:
+- flutter_bloc
+- http library
+- shared_preferences, You will see more in the pubspec.yaml file
 
 ## Getting Started
 
