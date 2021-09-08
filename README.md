@@ -2,7 +2,7 @@
 
 
 
-https://user-images.githubusercontent.com/67923348/132559764-b2c3fa06-8e89-47ae-883d-e73a2f1d192f.mp4
+![bandicam 2021-09-08 20-41-29-381](https://user-images.githubusercontent.com/67923348/132559764-b2c3fa06-8e89-47ae-883d-e73a2f1d192f.mp4)
 
 
 
