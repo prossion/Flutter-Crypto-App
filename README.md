@@ -1,5 +1,11 @@
 # Flutter Crypto App
 
+
+
+https://user-images.githubusercontent.com/67923348/132559764-b2c3fa06-8e89-47ae-883d-e73a2f1d192f.mp4
+
+
+
 The application is written using a clean architecture, to show the current prices of cryptocurrencies with two screens. Also caches the last 20 items.
 
 ### In this project I have used:
